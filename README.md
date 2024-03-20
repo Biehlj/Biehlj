@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Biehlj  
+- 👋 Hello, I’m John Biehl
 - 👀 I’m interested in ... Infrastrucure as Code (IaC), CI/CD Security best practices
 - 🌱 I’m currently learning ... Python and Powershell Scripting
-- 💞️ I’m looking to collaborate on ... I don't know yet.
 - 📫 How to reach me ... johnbiehl@gmail.com
 
 <!---
